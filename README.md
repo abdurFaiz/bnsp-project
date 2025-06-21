@@ -69,6 +69,7 @@ Panduan ini akan membantu Anda memahami cara menggunakan berbagai fitur yang ter
 
 ## Melihat Daftar Produk
 Saat pertama kali membuka aplikasi, Anda akan melihat halaman utama yang menampilkan semua produk dalam bentuk tabel. Jika jumlah produk melebihi 10, akan muncul navigasi halaman di bagian bawah tabel untuk melihat produk lainnya.
+![alt text](image.png)
 
 ## Mencari Produk
 Untuk menemukan produk secara cepat, gunakan fitur pencarian yang terletak di atas tabel.
@@ -76,6 +77,7 @@ Untuk menemukan produk secara cepat, gunakan fitur pencarian yang terletak di at
 2. Klik tombol **Search**.
 3. Tabel akan secara otomatis menampilkan produk yang sesuai dengan pencarian Anda.
 4. Terdapat juga sort data di masing - masing header table
+![alt text](image-1.png)
 
 ## Menambah Produk Baru
 1. Klik tombol **Create Product** yang berada di bagian atas halaman.
@@ -86,28 +88,31 @@ Untuk menemukan produk secara cepat, gunakan fitur pencarian yang terletak di at
     - **Description**: Deskripsi singkat mengenai produk
     - **Stock**: Jumlah stok produk yang tersedia
 4. Klik tombol **Save** untuk menyimpan produk baru. Produk tersebut akan langsung muncul di tabel daftar produk.
+![alt text](image-2.png)
 
 ## Mengubah Data Produk
 1. Pada tabel daftar produk, cari produk yang ingin Anda ubah.
 2. Klik tombol **Edit** pada baris produk tersebut.
 3. Sebuah form akan muncul dengan data produk yang sudah terisi.
 4. Ubah data sesuai kebutuhan, lalu klik tombol **Update** untuk menyimpan perubahan.
+![alt text](image-3.png)
 
 ## Menghapus Produk
 1. Pada tabel daftar produk, cari produk yang ingin Anda hapus.
 2. Klik tombol **Delete** pada baris produk tersebut.
 3. Akan muncul konfirmasi untuk memastikan Anda benar-benar ingin menghapus produk.
 4. Setelah dikonfirmasi, produk akan dihapus dari daftar. (Catatan: Produk tidak dihapus permanen dan masih bisa dikembalikan oleh administrator).
+![alt text](image-4.png)
 
 ## Mengekspor Data ke PDF
 Aplikasi ini memungkinkan Anda untuk mengunduh data produk dalam format PDF.
+![alt text](image-5.png)
+![alt text](image-6.png)
 
 ## Mengekspor Data ke EXCEL
 Aplikasi ini memungkinkan Anda untuk mengunduh data produk dalam format excel
-
-### Mengekspor Semua Produk
-- Klik tombol **Export PDF/excel** yang terletak di samping tombol **Create Product**.
-- Sebuah file PDF yang berisi daftar semua produk akan otomatis terunduh.
+![alt text](image-7.png)
+![alt text](image-8.png)
 
 ---
 
