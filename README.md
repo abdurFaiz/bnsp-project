@@ -60,10 +60,7 @@ Panduan ini akan membantu Anda memahami cara menggunakan berbagai fitur yang ter
 - [Menambah Produk Baru](#menambah-produk-baru)
 - [Mengubah Data Produk](#mengubah-data-produk)
 - [Menghapus Produk](#menghapus-produk)
-- [Mengekspor Data ke PDF](#mengekspor-data-ke-pdf)
-- [Mengekspor Data ke EXCEL(gekspor-data-ke-EXCEL)]
-  - [Mengekspor Semua Produk](#mengekspor-semua-produk)
-  - [Mengekspor Produk Tertentu](#mengekspor-produk-tertentu)
+- [Mengekspor Data ke PDF](#mengekspor-data-ke-pdf-excel)
 
 ---
 
