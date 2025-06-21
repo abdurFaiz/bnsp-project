@@ -3,7 +3,7 @@
 
     ```bash
     git clone https://github.com/abdurFaiz/bnsp-project.git
-    cd invest-system
+    cd invent-system
     ```
 
 2. **Install Dependency**
