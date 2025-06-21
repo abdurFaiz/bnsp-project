@@ -75,6 +75,7 @@ Untuk menemukan produk secara cepat, gunakan fitur pencarian yang terletak di at
 1. Ketikkan nama produk yang ingin Anda cari di kolom pencarian.
 2. Klik tombol **Search**.
 3. Tabel akan secara otomatis menampilkan produk yang sesuai dengan pencarian Anda.
+4. Terdapat juga sort data di masing - masing header table
 
 ## Menambah Produk Baru
 1. Klik tombol **Create Product** yang berada di bagian atas halaman.
@@ -101,20 +102,12 @@ Untuk menemukan produk secara cepat, gunakan fitur pencarian yang terletak di at
 ## Mengekspor Data ke PDF
 Aplikasi ini memungkinkan Anda untuk mengunduh data produk dalam format PDF.
 
-## Mengekspor Data ke PDF
+## Mengekspor Data ke EXCEL
 Aplikasi ini memungkinkan Anda untuk mengunduh data produk dalam format excel
 
 ### Mengekspor Semua Produk
-- Klik tombol **Export PDF** yang terletak di samping tombol **Create Product**.
+- Klik tombol **Export PDF/excel** yang terletak di samping tombol **Create Product**.
 - Sebuah file PDF yang berisi daftar semua produk akan otomatis terunduh.
-
-### Mengekspor Semua Produk
-- Klik tombol **Export excelng terletak di samping tombol **Create Product**.
-- Sebuah file PDF yang berisi daftar semua produk akan otomatis terunduh.
-
-### Mengekspor Produk Tertentu
-- Pada setiap baris produk di tabel, terdapat tombol **Export PDF**.
-- Klik tombol tersebut untuk mengunduh detail dari produk yang bersangkutan dalam format PDF.
 
 ---
 
